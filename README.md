@@ -15,7 +15,7 @@ After completing this exercise, you will be able to:
 ## Estimated Time
 Approximately 45-60 minutes
 
-### Part 1: Getting Started with GitHub (15–20 minutes)
+### Part 1: Getting Started with GitHub (10–20 minutes)
 1. If you do not have an existing GitHub account, go to [https://github.com](https://github.com) and sign up for a free account.
 2. Verify your email address and profile.
 3. OPTIONAL: Apply for the [GitHub Student Developer Pack](https://education.github.com/pack).
@@ -25,7 +25,7 @@ Approximately 45-60 minutes
 2. Click **Fork** in the upper-right corner.
 3. Confirm your new repository appears under your account.
 
-### Part 3: Launching Your Codespace (10-20 minutes)
+### Part 3: Launching Your Codespace (15-20 minutes)
 1. In your forked repo, click **Code → Codespaces → Create codespace on main**.
 2. Wait for setup, then open the **Terminal** and run:
    ```bash
