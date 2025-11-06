@@ -12,10 +12,20 @@ After completing this exercise, you will be able to:
 - Make, commit, and push basic file changes.
 - Submit your work via a public repository link.
 
-## Estimated Time
+## Estimated Time (2-3 hours if you complete Intro. To GitHub Training) 
 Approximately 45-60 minutes
 
 ### Part 1: Getting Started with GitHub (10–20 minutes)
+**Intro to GitHub Training**: Before working with repositories, branching, and collaboration, it’s helpful to review GitHub fundamentals. Complete the following Microsoft Learn module to gain hands-on experience with GitHub basics:
+
+👉 [**Introduction to GitHub (Microsoft Learn)**](https://learn.microsoft.com/en-us/training/modules/introduction-to-github)
+
+This short, self-paced module covers:
+- Creating and managing repositories  
+- Understanding commits and branches  
+- Using pull requests for collaboration  
+- Exploring GitHub workflow best practices 
+  
 1. If you do not have an existing GitHub account, go to [https://github.com](https://github.com) and sign up for a free account.
 2. Verify your email address and profile.
 3. OPTIONAL: Apply for the [GitHub Student Developer Pack](https://education.github.com/pack).
