@@ -18,7 +18,7 @@ Approximately 45-60 minutes
 ### Part 1: Getting Started with GitHub (15–20 minutes)
 1. If you do not have an existing GitHub account, go to [https://github.com](https://github.com) and sign up for a free account.
 2. Verify your email address and profile.
-3. OPTIONLA: Apply for the [GitHub Student Developer Pack](https://education.github.com/pack).
+3. OPTIONAL: Apply for the [GitHub Student Developer Pack](https://education.github.com/pack).
 
 ### Part 2: Forking a Repository (10 minutes)
 1. Visit the starter repository (e.g., `https://github.com/obriencasey/eng298-fa25-labprep`).
