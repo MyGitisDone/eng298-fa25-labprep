@@ -29,7 +29,7 @@ Try adding a few simple Markdown elements:
 ---
 
 ## Now It’s Your Turn!
-Add your line below and commit the change 🎉
+Add your line below and commit the change 🎉 \n
 Hello from Pranav Srinivasan! Today is November 18, 2025.
 ---
 
